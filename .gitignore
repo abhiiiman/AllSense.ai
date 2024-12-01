@@ -1,0 +1,5 @@
+/__pycache__
+*.env
+*chroma_db
+*Demo
+*chat_sessions.db
