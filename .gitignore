@@ -4,3 +4,6 @@
 *Demo
 *chat_sessions.db
 /venv
+/chroma_db
+/Demo
+/.DS_Store
